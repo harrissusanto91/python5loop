@@ -1,14 +1,15 @@
-The assignment link is bit.ly/python#task, where # represents the number corresponding to the class activity.
+The presentation link is bit.ly/python5lo0p
+The assignment link is bit.ly/python5task
+After you done the assignment answer question in this link bit.ly/python5questions
 
+The chalange activity is available after you done the basic task (see slide 32-34)
+If you are up to it there is real challage that will grant you significant ammount of extra point for final exam (see slide 35)
+
+--------------------------------------------------------------------------------------------------------------------------------
 Steps to Submit:
 To submit your work, use the following commands in order:
 
 1. git add .
 2. git commit -m "Submit"
 3. git push origin main
-
-Reflection Questions:
-After submitting, visit bit.ly/pythontask#questions, replacing # with the class activity number, and answer the reflection questions provided.
-
-Advanced Task (Optional):
-You can proceed with the advanced task only after completing the basic task. Use the same Codespace as the basic task and save the file as advanced_task.py.
+--------------------------------------------------------------------------------------------------------------------------------
